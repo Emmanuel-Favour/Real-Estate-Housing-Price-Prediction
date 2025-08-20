@@ -1,6 +1,6 @@
 # Real Estate House Pricing Prediction 🏡 
 
-A machine learning project that predicts house prices based on various features such as square footage, location, number of bedrooms, waterfront view, and more. This project explores data preprocessing, feature engineering, polynomial regression, and regularization (Ridge Regression) to build an optimized predictive model.
+A machine learning end to end project from model development to Model deployment that predicts house prices based on various features such as square footage, location, number of bedrooms, waterfront view, and more. This project explores data preprocessing, feature engineering, polynomial regression, and regularization (Ridge Regression) to build an optimized predictive model.
 
 ### Table of Contents
 
