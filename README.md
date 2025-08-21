@@ -6,7 +6,7 @@ A machine learning end to end project from model development to Model deployment
 
 Overview -----> Dataset -----> Project Workflow -----> Modeling -----> Results -----> Deployment -----> Technologies Used -----> How to Run -----> Future Improvements 
 
-*Author*
+*Author: Favour Emmanuel*
 
 ### Overview
 
