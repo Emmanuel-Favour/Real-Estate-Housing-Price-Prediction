@@ -47,15 +47,13 @@ and more…
 
 Data Preprocessing -----> Feature scaling -----> Exploratory Data Analysis (EDA) -----> Feature Engineering -----> Model Training -----> Model Evaluation
 
-📊 Results
+> Results
 
 > Training R² Score: ~0.85
 
 > Testing R² Score: ~0.82
 
 Ridge Regression successfully reduced overfitting compared to standard polynomial regression.
-
-(You can add plots here: predicted vs actual, residual plots, etc.)
 
 ### Model Deployment
 
